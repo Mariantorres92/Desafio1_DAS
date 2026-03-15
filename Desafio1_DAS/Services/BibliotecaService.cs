@@ -1,4 +1,4 @@
-// Autor: Maria Torres
+// Autor: Mariana Torres
 // Desafio 1 - Desarrollo de Aplicaciones con Software Propietario
 // Universidad Don Bosco
 

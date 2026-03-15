@@ -1,4 +1,4 @@
-// Autor: Maria Torres
+// Autor: Mariana Torres
 // Desafio 1 - Desarrollo de Aplicaciones con Software Propietario
 // Universidad Don Bosco
 
@@ -70,7 +70,7 @@ namespace Desafio1_DAS
             {
                 Name      = "pnlHeader",
                 Dock      = DockStyle.Top,
-                Height    = 56,
+                Height    = 35,
                 BackColor = ColorPrimario
             };
 
@@ -79,8 +79,8 @@ namespace Desafio1_DAS
                 AutoSize  = true,
                 Text      = "Sistema de Gestión de Biblioteca",
                 ForeColor = Color.White,
-                Font      = new Font("Segoe UI", 15, FontStyle.Bold),
-                Location  = new Point(16, 13)
+                Font      = new Font("Segoe UI", 11, FontStyle.Bold),
+                Location  = new Point(16, 8)
             };
 
             panel.Controls.Add(titulo);
